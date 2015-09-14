@@ -6,9 +6,9 @@ var lang = window.navigator.language;
 //change weather params here:
 //units: metric or imperial
 var weatherParams = {
-    'q':'Baarn,Netherlands',
+    'q':'Leiden,NL',
     'units':'metric',
-    'lang':lang
+    'lang':es
 };
 
 var feed = 'http://feeds.nos.nl/nosjournaal?format=rss';
